@@ -41,60 +41,28 @@
 
 ## 📁 Projects
 
-### 🧩 EduTrack – Web Application  
-**Python | Flask | MVC | MySQL**
+## 🧩 EduTrack – Web Application
+**Technologies:** Python | Flask | MVC | MySQL  
+- Developed an MVC-based web application for student–teacher interaction.  
+- Contributed to backend logic and database integration.  
+- Implemented grading, attendance, performance tracking, and real-time chat features.  
 
-- Developed a full **MVC-based web application** to enhance **student–teacher interaction**
-- Contributed to **backend logic, controllers, models, and database integration**
-- Implemented:
-  - **Grading system**
-  - **Attendance tracking**
-  - **Performance monitoring**
-  - **Real-time chat system**
+## 💊 Vita Code – Medication Management System
+**Technologies:** Python | CustomTkinter  
+- Built a desktop application for medication management.  
+- Features include search, alternative suggestions, price comparison, and categorization.  
 
----
+## 🏥 DB-PHARMACY – Pharmacy Management System
+**Technologies:** C# | MVC | MySQL  
+- Developed a multi-role system with authentication and Role-Based Access Control (RBAC).  
+- Contributed to database design, inventory management, and transaction handling.  
 
-### 💊 Vita Code – Medication Management System  
-**Python | CustomTkinter**
+## 🚦 Smart City Traffic Management System
+**Technologies:** C++ | Data Structures (No STL)  
+- Implemented an event-driven traffic simulation.  
+- Used custom data structures for prioritization, rerouting, and performance analysis.  
 
-- Built a **desktop application** using Python and CustomTkinter
-- Implemented:
-  - Medication **search**
-  - **Alternatives** suggestion
-  - **Price comparison**
-  - Medication **categorization**
-
----
-
-### 🏥 DB-PHARMACY – Pharmacy Management System  
-**C# | MVC | MySQL**
-
-- Developed a **multi-role system** with authentication
-- Implemented **role-based access control**
-- Contributed to:
-  - **Database design**
-  - **Inventory management**
-  - **Transaction handling**
-
----
-
-### 🚦 Smart City Traffic Management System  
-**C++ | Data Structures (No STL)**
-
-- Implemented an **event-driven traffic simulation**
-- Used **custom data structures** (Stack, Queue, Linked List)
-- Managed:
-  - Vehicle **prioritization**
-  - **Accidents handling**
-  - Traffic **rerouting**
-  - Performance **statistics and analysis**
-
----
-### 🏗 Speedy Rent – Car Rental System
-**Console Application | C++ (OOP)**
-
-- Object-Oriented system for car rental management
-- Includes **booking, validation, payment, and customer management**
-- Applied OOP principles (Encapsulation, Inheritance, Abstraction)
-
----
+## 🏗 Speedy Rent – Car Rental System
+**Technologies:** C++ | Console Application | OOP  
+- Object-oriented car rental management system.  
+- Includes booking, validation, payment, and customer management features.  
