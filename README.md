@@ -1,7 +1,11 @@
 # Hi there 👋, I'm Habiba
 
-## 🎯 About Me
-Software Engineering student at **Zewail City of Science and Technology** with hands-on experience in **Web development (Python Flask, C# MVC)**, **Application & Backend development**, **OOP in C++**, and **relational databases**. Experienced in **MVC architecture**, **full stack systems**, and **data-driven projects**. Seeking a **software engineering or application development internship** to apply technical skills in real-world projects and contribute to innovative solutions.
+## 🎯 About Me  
+🎓 Software Engineering Student @ Zewail City of Science and Technology  
+💻 Aspiring Software Engineer  
+🧪 Experienced in Web & Application Development (Python Flask, C# MVC)  
+🧠 Skilled in OOP (C++), Backend Systems & Relational Databases  
+⚙️ Exploring Full Stack Development, MVC Architecture & Data-Driven Projects 
 
 ## 🔗 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/habiba-mohammed-34609235a)
@@ -38,15 +42,15 @@ Software Engineering student at **Zewail City of Science and Technology** with h
 - Backend logic, controllers, models, and database integration.  
 - Features: grading, attendance, performance tracking, real-time chat.
 
-### 💊 Vita Code – Medication Management System
-**Technologies:** Python | CustomTkinter  
-- Desktop app for medication management.  
-- Features: search, alternatives, price comparison, categorization.
-
 ### 🏥 DB-PHARMACY – Pharmacy Management System
 **Technologies:** C# | MVC | MySQL  
 - Multi-role system with authentication & Role-Based Access Control (RBAC).  
 - Database design, inventory management, transaction handling.
+  
+### 💊 Vita Code – Medication Management System
+**Technologies:** Python | CustomTkinter  
+- Desktop app for medication management.  
+- Features: search, alternatives, price comparison, categorization.
 
 ### 🚦 Smart City Traffic Management System
 **Technologies:** C++ | Custom Data Structures (No STL)  
